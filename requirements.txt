@@ -1,0 +1,6 @@
+pandas==1.0.3
+numpy==1.18.4
+pytz==2019.3
+fbprophet==0.6
+ipython==7.14.0
+
